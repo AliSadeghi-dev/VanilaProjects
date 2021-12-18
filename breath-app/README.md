@@ -1,6 +1,6 @@
-## Relaxer App
+## breath App
 
-A relaxing breathing app with a visual director to tell you when to breathe in, hold and breathe out
+A breathing app with a visual director to tell you when to breathe in, hold and breathe out
 
 ## Project Specifications
 
