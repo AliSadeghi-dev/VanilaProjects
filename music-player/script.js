@@ -61,7 +61,8 @@ function prevSong() {
 // Next song
 function nextSong() {
     songIndex++;
-
+  
+    
     if (songIndex > songs.length - 1) {
         songIndex = 0;
     }
